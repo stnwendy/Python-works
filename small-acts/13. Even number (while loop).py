@@ -1,6 +1,5 @@
-evn=0
+evn = 0
 
-while evn < 101:
-    print((evn)/2)
-    evn=evn+1
-    
+while evn <= 100:
+    print(evn)
+    evn += 2
