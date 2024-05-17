@@ -3,7 +3,7 @@ smallest = 0
 num=""
 
 while num != 0:
-    num=eval(input("Type the integer: "))
+    num=eval(input("Type the integer [0 to stop input]: "))
     if num > largest:
         largest=num
         smallest = num
