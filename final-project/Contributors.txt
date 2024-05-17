@@ -1,4 +1,5 @@
-The script for the inventory tracking system is hinged upon the white paper titled: "Stockmate: Inventory Tracking System for Small Food Business" written on May 2023. This was a collaborative project for an academic requirement by:
+The script for the inventory tracking system is hinged upon the white paper titled: "Stockmate: Inventory Tracking System for Small Food Business" written on May 2023. 
+This was a collaborative project for an academic requirement by:
 
 Arevalo, Patricia Lorraine A.
 Beler, Dominic Emil R.
