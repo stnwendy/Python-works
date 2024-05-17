@@ -14,8 +14,6 @@ elif grd>=0 and grd<60:
 else:
     print("Invalid. Please type again.")
     loop()
-    
-while loop(True):
-    
+
 
     
